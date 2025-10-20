@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FedeSport">
+    <output-path>$PROJECT_DIR$/out/artifacts/FedeSport</output-path>
+    <root id="root" />
+  </artifact>
+</component>
